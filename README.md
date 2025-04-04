@@ -76,7 +76,6 @@ use this command to run the project
 ## Screenshots
 ![Screenshot 2024-06-22 194050](https://github.com/chiragpatil73/stock-price-predications/assets/124192305/76da5c73-511b-487b-9c16-f313fdfbead6)
 ![Screenshot 2024-06-22 194007](https://github.com/chiragpatil73/stock-price-predications/assets/124192305/92b0f5ef-304b-42fa-9577-3c9edec97ffa)
-![Screenshot 2024-04-17 102232](https://github.com/chiragpatil73/stock-price-predications/assets/124192305/679436a3-6898-4fb5-b06f-9cea7369054b)
 ![Screenshot 2024-04-16 094716](https://github.com/chiragpatil73/stock-price-predications/assets/124192305/a1c4b23a-0ce4-4a34-b256-130ca08339fd)
 ![Screenshot 2024-04-16 094657](https://github.com/chiragpatil73/stock-price-predications/assets/124192305/caf1ff8b-a7e6-49fd-a3be-fe3d5eee640b)
 ![Screenshot 2024-04-16 094604](https://github.com/chiragpatil73/stock-price-predications/assets/124192305/c8960845-4464-4ecd-bcaa-5e7e0f224884)
